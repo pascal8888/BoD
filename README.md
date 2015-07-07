@@ -1,5 +1,5 @@
-# BoD
-Document Repository for itsprinting.org Board of Directors
+# itsprinting.org Board of Directors
+##Document Repository for itsprinting.org Board of Directors
 
-http://www.churchherenow.com/Drupal/
+http://70.40.209.163/Drupal/  <-- Back to Forums
 
