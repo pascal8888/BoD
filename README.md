@@ -1,4 +1,4 @@
-[<-- Back to itsprinting.org Board of Directors Community]](http://70.40.209.163/Drupal/)
+[<-- Back to itsprinting.org Board of Directors Community](http://70.40.209.163/Drupal/)
 #Document Repository for itsprinting.org Board of Directors
 
 ##All official organizational documents are stored in this repository. 
